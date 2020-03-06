@@ -1,0 +1,9 @@
+.Hola {
+  border: 10px solid #21158a;
+  background-color: rgb(20, 69, 230);
+  height: 100px;
+  width: 200px;
+  padding: 10px;
+  margin: auto;
+  text-align: center;
+}
